@@ -15,6 +15,7 @@ public class Main {
 
         for (int i = 0; i < newLength; i++) {
             System.out.print(nums[i] + " ");
+
         }
     }
 }
