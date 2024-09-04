@@ -1,5 +1,6 @@
-package leetcode_27;
+package Leetcode_problems;
 
+import Leetcode_problems.array.leetcode_27;
 import org.junit.Assert;
 import org.junit.Test;
 public class leetcode_27_test {
